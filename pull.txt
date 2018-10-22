@@ -1,1 +1,3 @@
 https://github.com/UncleBig/goCache/pull/1
+https://github.com/memcached/memcached/pull/392
+https://github.com/memcached/memcached/pull/393
